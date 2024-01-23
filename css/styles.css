@@ -427,7 +427,9 @@ img {
     .main-priorities-p {
         text-align: left;
     }
-
+    .main-priorities-title {
+        text-align: left;
+    } 
 
 }
 
