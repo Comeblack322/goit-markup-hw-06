@@ -124,6 +124,11 @@ img {
     .head-menu-button {
         display: none;
     }
+    .nav-list-head {
+        display: flex;
+        align-items: center;
+        gap: 40px;    
+    }
 }
 
 
