@@ -944,7 +944,7 @@ img {
 }
 
 @media screen and (min-width: 1158px) {
-    .address-head-list {
+    .address-head-list{
         flex-direction: row;
         gap: 40px;
     }
